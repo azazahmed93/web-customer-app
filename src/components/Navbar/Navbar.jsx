@@ -98,7 +98,7 @@ function SearchAppBar(props) {
               <SearchIcon />
             </div>
             <InputBase
-              placeholder="Search…"
+              placeholder="Search Grocery…"
               classes={{
                 root: classes.inputRoot,
                 input: classes.inputInput
